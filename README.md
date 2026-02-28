@@ -1,2 +1,2 @@
-# hydra-triage-prt-npm
-Triage test: PRT + npm install (exploitable)
+# Triage Test: PRT + npm
+Test repo for pipeline validation.
