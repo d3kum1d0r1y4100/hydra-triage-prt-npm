@@ -1,6 +1,10 @@
 {
   "name": "triage-test-npm",
   "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "build": "echo building",
     "test": "echo testing"
