@@ -1,5 +1,5 @@
 {
-  "name": "triage-test-npm",
+  "name": "node-build-ci",
   "version": "1.0.0",
   "scripts": {
     "build": "echo building",
