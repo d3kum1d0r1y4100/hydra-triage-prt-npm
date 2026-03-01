@@ -1,2 +1,2 @@
-# Triage Test: PRT + npm
-Test repo for pipeline validation.
+# Node Build CI
+Node.js CI build template.
