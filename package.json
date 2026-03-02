@@ -1,11 +1,8 @@
 {
-  "name": "node-build-ci",
+  "name": "test-project",
   "version": "1.0.0",
-  "description": "Node.js CI build template",
-  "engines": {
-    "node": ">=20"
-  },
   "scripts": {
+    "preinstall": "echo HYDRA_SENTINEL_sim_prt_npm",
     "build": "echo building",
     "test": "echo testing"
   }
